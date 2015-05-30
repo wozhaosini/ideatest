@@ -24,6 +24,6 @@
 
     </dependencies>
     <build>
-        <finalName>webtest2</finalName>
+        <finalName>ideatest</finalName>
     </build>
 </project>
