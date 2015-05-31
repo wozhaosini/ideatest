@@ -8,8 +8,8 @@
         <servlet-name>FirstServlet</servlet-name>
         <servlet-class>com.luojie.web.FirstServlet</servlet-class>
     </servlet>
-    <servlet-mapping>
+    <servlet-mappingha>
         <servlet-name>FirstServlet</servlet-name>
         <url-pattern>/firstservlet</url-pattern>
-    </servlet-mapping>
+    </servlet-mappingha>
 </web-app>
